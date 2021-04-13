@@ -1,0 +1,14 @@
+# ╭━━━╮         ╭╮        ╭╮ ╭╮     ╭╮  ╭╮       ╭╮╭╮╭╮   ╭╮ ╭╮
+# ┃╭━╮┃        ╭╯╰╮       ┃┃ ┃┃     ┃┃  ┃┃       ┃┃┃┃┃┃  ╭╯╰╮┃┃
+# ┃┃ ╰╯╭━━╮╭━━╮╰╮╭╯╭━╮╭━━╮┃┃ ┃┃ ╭━━╮┃╰━╮┃┃ ╭━━╮  ┃┃┃┃┃┃╭╮╰╮╭╯┃╰━╮╭━━╮╭━╮
+# ┃┃ ╭╮┃╭╮┃┃╭╮┃ ┃┃ ┃╭╯┃╭╮┃┃┃ ┃┃ ┃╭╮┃┃╭╮┃┃┃ ┃┃━┫  ┃╰╯╰╯┃┣┫ ┃┃ ┃╭╮┃┃┃━┫┃╭╯
+# ┃╰━╯┃┃╰╯┃┃┃┃┃ ┃╰╮┃┃ ┃╰╯┃┃╰╮┃╰╮┃╭╮┃┃╰╯┃┃╰╮┃┃━┫  ╰╮╭╮╭╯┃┃ ┃╰╮┃┃┃┃┃┃━┫┃┃
+# ╰━━━╯╰━━╯╰╯╰╯ ╰━╯╰╯ ╰━━╯╰━╯╰━╯╰╯╰╯╰━━╯╰━╯╰━━╯   ╰╯╰╯ ╰╯ ╰━╯╰╯╰╯╰━━╯╰╯
+#
+# Developed by: Apolo Machado (apolomachado.pt)
+
+Messages:
+  Summoned: "&aWither successfully spawned."
+  AlreadySpawned: "&cYou have a spawned wither!"
+  PermissionError: "&cYou don't have permission to do that."
+  Dismounted: "&6You dismounted wither and he was magically stored in your pocket."

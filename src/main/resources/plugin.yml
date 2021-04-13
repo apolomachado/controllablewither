@@ -1,0 +1,9 @@
+name: ControllableWither
+version: 1.1
+author: ApoloMachado
+main: pt.apolomachado.cw.ControllableWither
+description: "A Spigot plugin to create a controllable Wither that fires fireballs when right-clicking! Inspired by Hypixel's new BedWars mode."
+commands:
+  controllablewither:
+    description: "A command to spawn a Controllable Wither!"
+    permission: "controllablewither.use"
